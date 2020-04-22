@@ -3,6 +3,7 @@ def reverse_each_word(string)
   array.collect do |word|
     word.reverse
   end
+  p array
 end
 
 reverse_each_word("hello everyone my name is haley")
