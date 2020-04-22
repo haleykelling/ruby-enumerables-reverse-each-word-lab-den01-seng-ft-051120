@@ -4,5 +4,3 @@ def reverse_each_word(string)
     word.reverse
   end
 end
-
-reverse_each_word("hello everyone my name is haley")
